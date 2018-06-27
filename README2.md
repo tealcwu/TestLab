@@ -1,7 +1,8 @@
 
 * [Numbers](#Numbers)
-
-**[Networking](#Networking)**
+# [Text](#Text)
+[Networking](#Networking)
+[Web](#web )
 
 ## Numbers
 - [Fractional Arithmetic](/1Numbers/FractionalArithmetic) (Add/Subtract/Multiply/Divide Fractions)
@@ -25,7 +26,7 @@
 - Sieve of Eratosthenes
 - Tax Calculator 
 - Unit Converter (Temp, Currency, Volume, Mass and more)
-## Text 
+## Text
 - CD Key Generator 
 - Check if Palindrome 
 - Code Skeleton Creator 
@@ -48,7 +49,7 @@
 - Text to HTML Generator 
 - Vigenere / Vernam / Caesar Ciphers 
 - Write Out Number 
-## Networking 
+## Networking
 - Chat Application (IRC or MSN Style) 
 - Country from IP Lookup 
 - Email Server 
