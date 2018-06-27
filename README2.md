@@ -1,9 +1,9 @@
 
 * [Numbers](#Numbers)
 
-# [Text](#Text)
+** [Text](#Text)
 
-[Networking](#Networking )
+[Networking](#networking )
 
 [Web](#web )
 
