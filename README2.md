@@ -7,6 +7,12 @@
 
 [Web](#web )
 
+[Networking](#Networking )
+
+
+# [Text](#Text)
+
+
 ## Numbers
 - [Fractional Arithmetic](/1Numbers/FractionalArithmetic) (Add/Subtract/Multiply/Divide Fractions)
 - Alarm Clock
