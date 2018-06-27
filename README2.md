@@ -1,7 +1,10 @@
 
 * [Numbers](#Numbers)
+
 # [Text](#Text)
+
 [Networking](#Networking)
+
 [Web](#web )
 
 ## Numbers
