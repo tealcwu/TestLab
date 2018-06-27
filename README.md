@@ -12,6 +12,8 @@ README
 * [测试链接一](#测试链接一)
 ## [测试链接一](#测试链接一)
 
+[测试链接二](#测试链接二)
+
 ****
 ## 目录
 * [横线](#横线)
@@ -150,7 +152,10 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 测试链接一
 ------
 
-链接
+# 测试链接二
+
+
+# 链接
 
 ### 链接外部URL
 
