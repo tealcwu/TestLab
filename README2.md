@@ -3,7 +3,7 @@
 
 # [Text](#Text)
 
-[Networking](#Networking)
+[Networking](#Networking )
 
 [Web](#web )
 
@@ -191,7 +191,7 @@
 - Wallpaper Manager 88
 - Watermarking Application 88
 - YouTube Downloader 89
-## Games 
+## Games
 - 2D RPG 
 - Battleship 
 - Black Jack 
